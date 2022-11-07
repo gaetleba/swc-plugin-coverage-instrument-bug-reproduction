@@ -3,6 +3,5 @@ module.exports = {
   reactStrictMode: true,
   experimental: {
     appDir: true,
-    swcPlugins: [["swc-plugin-coverage-instrument", {}]],
   },
 };
